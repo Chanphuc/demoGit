@@ -1,0 +1,15 @@
+Here is daily report for Jun 3rd 2024:
+-previous work day:
+	+ None
+- The currently working on:
+	+ Learn about "What is GIT?".
+	+ Setup: network, GIT Installation, vscode ide
+	
+- The next work day:
+	+Learn about "Studying Getting Started"
+	+Git Concepts and Architecture
+	+Make Changes to Files
+
+
+-blockers:
+	+ None
